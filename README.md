@@ -1,9 +1,9 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
+Personal goals made open source. (Forked from Una's personal goals starter: http://una.github.io/personal-goals-guide)
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Why? I realized what I have been doing and want to do is all over the place. I need to focuse more in order to learn more efficiently and effectively.
 
 # Overarching Goals
 1. Learn front-end development
@@ -32,3 +32,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Build my own lisp (http://www.buildyourownlisp.com/chapter4_interactive_prompt)
 - [ ] Women Who Code - go through their learning C workshop material
 - [ ] Start actually blogging with my Jekyll blog that I got set up already
+- [ ] Lynda.com C Essential Training course
