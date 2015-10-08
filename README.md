@@ -8,9 +8,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Learn front-end development
 2. Earn the Free Code Camp Front-End Development Certificate before the end of 2015
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
+3. Use Github more
+4. Get better at communicating
+5. Learn about software (oops-- too generic!)
 6. Be kind
 
 # October 5, 2015
