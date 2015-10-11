@@ -18,8 +18,8 @@ Why? I realized what I have been doing and want to do is all over the place. I n
 ### This Week's Goal: Be Awesome.
 
 ## Things I'll Do This Week:
-- [ ] Watch videos for Philosophy of Science class
-- [ ] Complete quiz for Philosophy of Science class
+- [X] Watch videos for Philosophy of Science class
+- [X] Complete quiz for Philosophy of Science class
 - [ ] Japanese homework
 - [ ] Free Code Camp - start Zipline: Javascript Calculator
 - [ ] Free Code Camp - complete a few algorithm scripting Bonfires
@@ -33,3 +33,4 @@ Why? I realized what I have been doing and want to do is all over the place. I n
 - [ ] Women Who Code - go through their learning C workshop material
 - [ ] Start actually blogging with my Jekyll blog that I got set up already
 - [ ] Lynda.com C Essential Training course
+- [ ] Watch these CS videos (Computer Science and Software Engineering Theory with Briana https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
