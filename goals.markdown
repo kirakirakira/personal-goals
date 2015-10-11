@@ -22,7 +22,7 @@ Why? I realized what I have been doing and want to do is all over the place. I n
 - [X] Complete quiz for Philosophy of Science class
 - [ ] Japanese homework
 - [ ] Free Code Camp - start Zipline: Javascript Calculator
-- [ ] Free Code Camp - complete a few algorithm scripting Bonfires
+- [X] Free Code Camp - complete a few algorithm scripting Bonfires
 
 ### Things I'll Do This Month: October 2015
 - [ ] Decide if I am going to do NaNoWriMo
